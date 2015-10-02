@@ -15,6 +15,7 @@ import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.security.web.util.matcher.AntPathRequestMatcher;
 
 /**
  * Configures web security and rest api security aspects.
@@ -42,7 +43,7 @@ public class MultiHttpSecurityConfig
     }
 
     @Configuration
-    @Order(1)
+    @Order(2)
     public static class ApiWebSecurityConfigurationAdapter extends WebSecurityConfigurerAdapter
     {
         @Autowired
@@ -80,7 +81,6 @@ public class MultiHttpSecurityConfig
             http.authorizeRequests()
                     .antMatchers(HttpMethod.POST, "/api/login").permitAll()
                     .antMatchers(HttpMethod.GET, "/api/logout").authenticated()
-                    .antMatchers("/api/**").fullyAuthenticated()
                     .anyRequest().authenticated()
                     .and()
                     .formLogin()
@@ -98,19 +98,28 @@ public class MultiHttpSecurityConfig
     }
 
     @Configuration
+    @Order(1)
     public static class FormLoginWebSecurityConfigurerAdapter extends WebSecurityConfigurerAdapter
     {
         @Override
         protected void configure(HttpSecurity http) throws Exception
         {
-            http.authorizeRequests()
-                    .antMatchers("/resources/**", "/signup").permitAll()
+            http.requestMatcher(request -> {
+                final String url = request.getServletPath() + request.getPathInfo();
+                return !(url.startsWith("/api/"));
+            });
+
+            http.authorizeRequests().antMatchers("/resources/**", "/signup.jsp", "/logout").permitAll()
                     .antMatchers("/admin/**").access("hasRole('ROLE_ADMIN')")
                     .antMatchers("/repairer/**").access("hasRole('ROLE_REPAIRER')")
                     .antMatchers("/client/**").access("hasRole('ROLE_CLIENT')")
                     .anyRequest().authenticated()      // remaining URL's require authentication
                     .and()
                     .formLogin()
+                    .and()
+                    .logout()
+                    .logoutRequestMatcher(new AntPathRequestMatcher("/logout"))
+                    .logoutSuccessUrl("/")
                     .and()
                     .csrf();
         }

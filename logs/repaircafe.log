@@ -5208,3 +5208,1803 @@
 
     alter table "User" 
         drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-25 13:58:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-25 13:58:13 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-25 13:58:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-25 13:58:21 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-25 13:58:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-25 13:58:50 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-25 14:00:59 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-25 14:00:59 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 11:39:27 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 11:39:27 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 11:40:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 11:40:46 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 11:42:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 11:42:30 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 11:44:43 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 11:44:43 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 11:46:39 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 11:46:39 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 11:51:55 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 11:51:55 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 11:55:34 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 11:55:34 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 12:04:50 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 12:04:50 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 12:06:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 12:06:47 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 12:09:46 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 12:09:46 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 12:11:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 12:11:30 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 12:15:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 12:15:13 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 12:17:36 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 12:17:36 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:18:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:18:22 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:25:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:25:44 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:29:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:29:53 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:31:22 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:31:22 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:41:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:41:10 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:43:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:43:07 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:45:11 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:45:12 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:45:12 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:45:12 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:45:12 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:45:12 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:45:12 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:45:12 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:45:12 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:45:12 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:48:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:48:58 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:50:07 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:50:07 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:51:28 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:51:28 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:54:09 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:54:09 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:56:41 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:56:41 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 13:57:56 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 13:57:56 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 14:17:53 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 14:17:53 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 14:50:57 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 14:50:57 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 14:50:57 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 14:50:57 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 14:50:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 14:50:58 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 14:50:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 14:50:58 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 14:50:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 14:50:58 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 14:50:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 14:50:58 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 14:50:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 14:50:58 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 14:50:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 14:50:58 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 14:50:58 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 14:50:58 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 14:55:44 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 14:55:44 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-09-29 15:08:21 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-09-29 15:08:21 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-10-02 11:11:10 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-10-02 11:11:10 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-10-02 12:13:30 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-10-02 12:13:30 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-10-02 13:27:35 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-10-02 13:27:35 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-10-02 13:31:13 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-10-02 13:31:13 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-10-02 13:35:47 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-10-02 13:35:47 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_i7v6jok09e9mq995ewpy555ij if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Bid drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "BID" not found; SQL statement:
+
+    alter table Bid 
+        drop constraint FK_jlglfand163gnui5ji9d2rhdr if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Person drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "PERSON" not found; SQL statement:
+
+    alter table Person 
+        drop constraint FK_lwukevc5ru9q3ue53yfr1ok7d if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_d3vp0exxxo6xc7l9mejgn525r if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_6n9tn7u7pc3rcgsfbqp79xwgy if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_81w73wdoetppmafbpy5fvansj if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_81w73wdoetppmafbpy5fvansj if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Repair drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "REPAIR" not found; SQL statement:
+
+    alter table Repair 
+        drop constraint FK_1wfg5um7d6l90o208km6vy9hh if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table Role drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "ROLE" not found; SQL statement:
+
+    alter table Role 
+        drop constraint FK_qhfm5qqju5vgp7r1r6qhmvgqj if exists [42102-183]
+2015-10-02 13:41:06 ERROR SchemaExport:425 - HHH000389: Unsuccessful: alter table "User" drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists
+2015-10-02 13:41:06 ERROR SchemaExport:426 - Table "User" not found; SQL statement:
+
+    alter table "User" 
+        drop constraint FK_ns5rr4lekbwqcsttp0al67ktf if exists [42102-183]

@@ -118,7 +118,7 @@
             --%>
             <li class="buttons">
                 <input id="saveForm" class="button_text" type="submit" name="submit" value=
-                        <s:message code="send"/>/>
+                    <s:message code="send"/>/>
             </li>
         </ul>
     </sf:form>

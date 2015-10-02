@@ -2,7 +2,12 @@
 <body>
 <h2>Welkom bij de Repair Cafe Applicatie</h2>
 
-<p>Gelieve in te loggen om je reparaties te kunnen bekijken</p>
-<a href="login">Login</a>
+<p><a href="getrepairs.do">Mijn reparaties</a></p>
+
+<p><a href="newrepair.do">Nieuwe reparatie</a></p>
+
+<p></p><a href="logout">Uitloggen</a></p>
+
+
 </body>
 </html>
