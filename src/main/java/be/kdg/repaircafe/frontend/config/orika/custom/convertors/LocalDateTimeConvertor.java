@@ -1,9 +1,13 @@
 package be.kdg.repaircafe.frontend.config.orika.custom.convertors;
 
+import ma.glasnost.orika.converter.BidirectionalConverter;
+import ma.glasnost.orika.metadata.Type;
 import org.springframework.stereotype.Component;
 
+import java.time.LocalDateTime;
+
 @Component
-public classOrikaLocalDateTimeConvertor extends BidirectionalConverter<LocalDateTime, LocalDateTime>
+public class LocalDateTimeConvertor extends BidirectionalConverter<LocalDateTime, LocalDateTime>
 {
     // https://programmeren3-repaircafe.rhcloud.com/repair-cafe-applicatie/repair-cafe-frontend/presentation-layer/orika/
 
