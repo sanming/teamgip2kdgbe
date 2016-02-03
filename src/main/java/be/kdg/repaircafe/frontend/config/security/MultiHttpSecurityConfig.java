@@ -74,7 +74,7 @@ public class MultiHttpSecurityConfig
 
             // If you want "normal" login on Rest API use this
             // example usages with curl:
-            // login: curl -i -X POST -d username=scott.tiger@live.com -d password=scott -c ~/cookies.txt http://localhost:8080/repaircafe/api
+            // login: curl -i -X POST -d username=scott.tiger@live.com -d password=scott -c ~/cookies.txt http://localhost:8080/repaircafe/api/login
             // access resources: curl -i -X GET -b ~/cookies.txt http://localhost:8080/repaircafe/api/
             // logout: curl -i -X GET -b ~/cookies.txt http://localhost:8080/repaircafe/api/logout
 
