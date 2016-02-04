@@ -77,6 +77,11 @@ public class MultiHttpSecurityConfig
             // login: curl -i -X POST -d username=scott.tiger@live.com -d password=scott -c ~/cookies.txt http://localhost:8080/repaircafe/api/login
             // access resources: curl -i -X GET -b ~/cookies.txt http://localhost:8080/repaircafe/api/
             // logout: curl -i -X GET -b ~/cookies.txt http://localhost:8080/repaircafe/api/logout
+            // kan ook met Postman Chrome Plugin:
+            // POST http://localhost:9966/repaircafe/api/login
+            // Authorization: No Auth
+            // Body : x-www-form-urlencoded : username : scott.tiger@live.com password:scott
+            // Cookies interceptor plugin toevoegen aan Postman?
 
             http.authorizeRequests()
                     .antMatchers(HttpMethod.POST, "/api/login").permitAll()
