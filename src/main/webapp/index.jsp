@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welkom bij de Repair Cafe Applicatie</h2>
+<h2>Welkom bij de Repair Cafe Applicatie NIEUWE TKETKEJFGKE</h2>
 
 <p><a href="getrepairs.do">Mijn reparaties</a></p>
 
