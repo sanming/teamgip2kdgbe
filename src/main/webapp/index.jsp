@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Welkom bij de Repair Cafe Applicatie EIGEN REPO 19:25</h2>
+<h2>Welkom bij de Repair Cafe Applicatie EIGEN REPO 19:55</h2>
 
 <p><a href="getrepairs.do">Mijn reparaties</a></p>
 
